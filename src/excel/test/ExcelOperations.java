@@ -16,7 +16,7 @@ public class ExcelOperations {
 		int total_colm_count=reader.getColumnCount(sheetname);
 		System.out.println(total_colm_count);
 		
-		
+	
 	}
 
 }
